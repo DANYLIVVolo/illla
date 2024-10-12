@@ -1,0 +1,50 @@
+
+footer img{
+width: 75px;
+height: 75px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.telegram{
+    width: 75px;
+    height: 75px;
+}
+.tiktok{
+    width: 75px;
+    height: 75px;
+}
+
+
+body{
+    background-color: rgb(155, 212, 141);
+}
+header{
+     background-color: rgb(94, 148, 86);
+}
+footer{
+background-color: rgb(94, 148, 86);
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(9, 23, 218);
+    font-size: 30px;
+    margin:25px;
+
+}
+h2{
+    text-align: center;
+
+}
+main img{
+    margin-left: 400px;
+}
+p {
+    text-align: center;
+}
